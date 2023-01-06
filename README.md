@@ -21,3 +21,8 @@ Yields output:
 "<woærd>"
 	"woørd" tag
 ```
+
+Some CG-3 changes were needed to make it build, add a text I/O function, and export all needed functions:
+https://github.com/GrammarSoft/cg3/commit/38b5949d5679ea35b0ed998300d19766e489f7e0
+
+Similar changes are likely needed for all other tools.
